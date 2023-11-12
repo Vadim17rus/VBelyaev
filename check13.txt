@@ -1,3 +1,3 @@
 123asd
 версия для славянской ветки(?)
-main version
+SLAV version
