@@ -1,3 +1,4 @@
 123asd
 версия для славянской ветки(?)
 SLAV version
+mime: *waves
